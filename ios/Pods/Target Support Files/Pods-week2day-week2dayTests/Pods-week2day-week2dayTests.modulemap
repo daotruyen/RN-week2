@@ -1,0 +1,6 @@
+module Pods_week2day_week2dayTests {
+  umbrella header "Pods-week2day-week2dayTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
